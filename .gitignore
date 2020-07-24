@@ -1,0 +1,11 @@
+.vscode/
+.venv/
+__pycache__/
+*sandbox*
+sandbox/
+.DS_Store
+*.pyc
+*.env
+*.csv
+out/
+log/
